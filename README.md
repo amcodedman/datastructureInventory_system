@@ -1,4 +1,4 @@
-![inventorypreview2](https://github.com/amcodedman/datastructureInventory_system/assets/136466838/39f9a38a-ae7a-4f4b-b7e1-09f0dd2e1a36)
+
 
 
 📦 Inventory Management Desktop Application
