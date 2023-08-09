@@ -1,5 +1,7 @@
 
 ![MyShop keeper](https://github.com/amcodedman/datastructureInventory_system/assets/136466838/4d28e075-cf06-4630-95fe-51c4f080c3eb)
+![inventorypreview2](https://github.com/amcodedman/datastructureInventory_system/assets/136466838/6dca53ac-4a4c-405d-b8b5-d7b5020c5679)
+![myShopkeeper  preview3](https://github.com/amcodedman/datastructureInventory_system/assets/136466838/f7fcd43b-fa79-4f41-954c-1fed517a040d)
 
 
 📦 Inventory Management Desktop Application
