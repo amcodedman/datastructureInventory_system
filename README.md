@@ -41,10 +41,3 @@ Explore Features: Dive deep into the array of features including undoing goods a
 The amazing Java community for their exceptional libraries and tools that powered this application.
 📧 Contact
 Have questions or suggestions? Feel free to reach out to me at jamesmensahcoded@gmail.com.
-
-![MyShop keeper](https://github.com/amcodedman/datastructureInventory_system/assets/136466838/df87682d-9051-413b-ade4-1cc04b3873b2)
-
-![Uploa![inventorypreview](https://github.com/amcodedman/datastructureInventory_system/assets/136466838/f97c55a4-4b07-4f9f-b023-c64e1d7633d2)
-ding inventorypreview2.png…]()
-
-![myShopkeeper  preview2](https://github.com/amcodedman/datastructureInventory_system/assets/136466838/4cce2adc-2036-4e4d-b216-540b092d1351)
